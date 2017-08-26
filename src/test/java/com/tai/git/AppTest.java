@@ -37,6 +37,6 @@ public class AppTest
     }
 
     public void testGit(){
-        System.out.println("AppTest.testGit");
+        System.out.println("Edit test git");
     }
 }
