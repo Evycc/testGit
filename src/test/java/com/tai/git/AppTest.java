@@ -38,5 +38,11 @@ public class AppTest
 
     public void testGit(){
         System.out.println("Edit test git");
+<<<<<<< Updated upstream
+	System.out.println("Test git stash pop");
+	System.out.println("Test git stash -s");
+=======
+	System.out.println("Test git stash 隐藏");
+>>>>>>> Stashed changes
     }
 }
